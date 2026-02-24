@@ -1,7 +1,9 @@
 # Fraud-Risk-Modelling-using-Python-Machine-Learning
 Fraud risk modelling project using Python and machine learning techniques to detect fraudulent credit card transactions. The workflow includes data preprocessing, feature scaling, SMOTE-based imbalance handling, and predictive modelling using Logistic Regression, Random Forest, and XGBoost with performance evaluation.
+
 **Business Problem**
 Credit card fraud poses significant financial and operational risks, requiring predictive systems capable of identifying anomalous transaction behaviour with high sensitivity.
+
 **Dataset**
 Source: Kaggle Credit Card Fraud Detection Dataset
 • 284,807 transactions
